@@ -1,0 +1,55 @@
+Body {
+  background-color: #F5DEB3;
+  
+  font-family: Chalkduster, fantasy;
+}
+
+.meu-botao {
+
+  background-color: #3498db;
+
+  color: #fff;
+
+  border: none;
+
+  padding: 10px 20px;
+
+  border-radius: 5px;
+
+  cursor: pointer;
+
+  font-size: 16px;
+
+}
+
+.meu-botao:hover {
+
+  background-color: #2980b9;
+
+}
+
+.lista-tarefas: {
+  background-color: #3498db;
+
+  color: #fff;
+
+  border: none;
+
+  padding: 10px 20px;
+
+  border-radius: 5px;
+
+  cursor: pointer;
+
+  font-size: 16px;
+}
+
+.escrever {
+   padding: 10px 20px;
+
+  border-radius: 5px;
+
+  cursor: pointer;
+
+  font-size: 16px;
+}
